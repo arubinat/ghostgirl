@@ -318,7 +318,7 @@ footer .box a {
 .bottom-footer {
   text-align: center;
   padding-top: 50px;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 @media screen and (min-width: 768px) {
@@ -339,7 +339,7 @@ footer .box a {
   }
 
   .bottom-footer {
-    font-size: 9px;
+    font-size: 12px;
   }
 }
 
