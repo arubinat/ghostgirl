@@ -1,3 +1,10 @@
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.googleapis.com/css2?family=Alegreya&display=swap");
+  font-display: swap;
+}
+
 :root {
   --body-color: #f3f3f3;
   --text-color: #171717;
